@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ES2022",
+    "module": "commonjs",
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules"]
+}
